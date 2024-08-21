@@ -20,7 +20,7 @@ export default function AppointmentWithContactInfoSection() {
           <h2 className="cs_fs_40 cs_medium mb-0">Contact Info</h2>
           <div className="cs_height_60 cs_height_xl_40" />
           <img
-            src="/images/appointments/appointment_img.jpeg"
+            src="/images/appointments/\icu.webp"
             alt="Appointment"
             className="cs_radius_25 w-100"
           />

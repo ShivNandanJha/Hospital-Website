@@ -1,4 +1,4 @@
-import React, { useState, useRef, useEffect } from 'react';
+import { useState, useRef, useEffect } from 'react';
 
 function AccordionItem({ title, content, isOpen, onClick }) {
   const accordionContentRef = useRef(null);
